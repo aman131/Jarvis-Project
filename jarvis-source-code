@@ -107,3 +107,8 @@ if __name__ == "__main__":
             except Exception as e:
                 print(e)
                 speak("Sorry Sir, I couldn't send this email")    
+
+
+
+
+// this project is inspired by codewithharry Youtube Channel
